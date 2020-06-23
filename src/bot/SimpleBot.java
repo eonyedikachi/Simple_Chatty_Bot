@@ -35,6 +35,4 @@ public class SimpleBot {
         System.out.println("Completed, have a nice day!");
     }
 }
- .idea/
-         Simple_Chatty_Bot.iml
-         src/
+
